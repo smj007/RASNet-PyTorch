@@ -19,6 +19,3 @@ class CEL_Jaccard:
                denom = union - intersection
                loss -= torch.log((intersection + eps) / (denom + eps)) * self.jaccard_weight
        return loss
-
-
-       
