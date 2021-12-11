@@ -14,7 +14,7 @@
 
 ### Sample Data
 
-Download from **[[`Dataset Link`](https://drive.google.com/file/d/1OwWfgBZE0W5grXVaQN63VUUaTvufEmW0/view?usp=sharing)]** and place it inside the repository root and unzip. To train the model, download the Endovis 17/18 dataset from [here](https://endovis.grand-challenge.org/).
+Download from **[[`Dataset Link`](https://drive.google.com/file/d/1OwWfgBZE0W5grXVaQN63VUUaTvufEmW0/view?usp=sharing)]** and place it inside the repository root and unzip. To train the model, download the Endovis 17/18 dataset from [here](https://endovis.grand-challenge.org/) and set the root directory in **main.py**
 
 ### Usage (Training and Validation)
 
